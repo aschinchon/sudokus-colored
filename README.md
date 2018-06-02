@@ -19,7 +19,7 @@ install.packages("sudoku")
 
 ## More info
 
-A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2018/05/31/coloring-sudokus/)
+A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2018/06/01/coloring-sudokus/)
 
 An article on [The Guardian](https://www.theguardian.com/books/2015/sep/17/nested-fish-and-golden-triangles-adult-colouring-and-the-beauty-of-maths) by Alex Bellos
 
