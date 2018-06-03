@@ -1,3 +1,4 @@
+## Me playing with colours
 library(colourlovers)
 palette1 <- clpalette('113451')
 palette2 <- clpalette('92095')
