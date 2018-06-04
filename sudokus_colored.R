@@ -58,7 +58,10 @@ for (i in n:1)
 
 # Pick a palette from colourLovers
 # My favourite are: "1930", "482774", "694737", "953498" y "292482"
-id="1930"
+id="77121"
+id="443995"
+id="49963"
+id="953498"
 palette <- clpalette(id) %>% swatch %>% .[[1]] %>% unique() %>% colorRampPalette()
 
 # Do the plot
